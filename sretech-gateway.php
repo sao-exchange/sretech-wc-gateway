@@ -178,7 +178,7 @@ function init_sretech_gateway() {
                     'title'       => __( 'Description', 'sretech' ),
                     'type'        => 'textarea',
                     'description' => __( 'Description shown to the user during checkout.', 'sretech' ),
-                    'default'     => __( 'Security verification required: Phone, & Email. Your transaction today will be with SRE Tech and your statement will say the same. We accept your BPSK Keys as barter for your order.', 'sretech' ),
+                    'default'     => __( 'Security verification required: Phone, & Email. Your transaction today will be with SRE Tech and your statement will say "TRANSAK PSI FINANCE NFT" . We accept your BPSK Keys as barter for your order.', 'sretech' ),
                 ),
 
                 // ── API & Environment ───────────────────────────────
